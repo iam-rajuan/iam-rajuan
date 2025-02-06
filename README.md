@@ -33,7 +33,7 @@
 
 <h1 align="center">Hi There 👋, I'm Md. Rajuan Hossen</h1>
 <!-- <div "align=center"> <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif"/></div> -->
-<h3 align="center">A passionate frontend developer from Bangladesh.</h3>
+<h3 align="center">A passionate Full Stack Developer from Bangladesh.</h3>
 
 
 <!--[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
